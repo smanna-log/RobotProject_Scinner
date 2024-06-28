@@ -1,0 +1,17 @@
+*** Settings ***
+Library    BuiltIn
+Library    SeleniumLibrary
+
+*** Test Cases ***
+TabbedWindowsTest
+    
+    [Documentation]    This is an example test case to demonstrate Robot Framework.
+    Log    Starting the test case
+    Should Be Equal    ${result}    Hello, Robot Framework!
+    Log    Test case finished
+
+*** Variables ***
+${result}    Hello, Robot Framework!
+
+
+    

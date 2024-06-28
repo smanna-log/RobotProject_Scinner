@@ -1,0 +1,11 @@
+*** Settings ***
+Library    BuiltIn
+Library    SeleniumLibrary
+
+*** Test Cases ***
+TabbedWindowsTest
+    
+    open browser  https://scinner.com    chrome 
+
+
+    

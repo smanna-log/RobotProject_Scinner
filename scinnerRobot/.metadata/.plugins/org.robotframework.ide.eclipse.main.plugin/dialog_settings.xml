@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.robotframework.ide.project.editor.activePage.robott">
+		<item key="activePage" value="GeneralProjectConfigurationEditorPart"/>
+	</section>
+	<section name="org.robotframework.ide.project.editor.activePage.robo1">
+		<item key="activePage" value="LibrariesProjectConfigurationEditorPart"/>
+	</section>
+	<section name="org.robotframework.ide.project.editor.activePage.qwe">
+		<item key="activePage" value="GeneralProjectConfigurationEditorPart"/>
+	</section>
+	<section name="org.robotframework.ide.project.editor.activePage.abcd">
+		<item key="activePage" value="GeneralProjectConfigurationEditorPart"/>
+	</section>
+	<section name="org.robotframework.ide.project.editor.activePage.jio">
+		<item key="activePage" value="GeneralProjectConfigurationEditorPart"/>
+	</section>
+	<section name="problemPreferences">
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./abcd/abcdd.robot">
+		<item key="activePage" value=""/>
+	</section>
+	<section name="org.robotframework.ide.project.editor.activePage.mybot">
+		<item key="activePage" value="LibrariesProjectConfigurationEditorPart"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./mybot/nnnn\.robot">
+		<item key="activePage" value=""/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./sdf/asd.robot">
+		<item key="activePage" value=""/>
+	</section>
+	<section name="org.robotframework.ide.project.editor.activePage.sdf">
+		<item key="activePage" value="LibrariesProjectConfigurationEditorPart"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./sdf/scinner_live.robot">
+		<item key="activePage" value=""/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./scinner_Robot/scinner_live.robot">
+		<item key="activePage" value=""/>
+	</section>
+	<section name="org.robotframework.ide.project.editor.activePage.scinner_Robot">
+		<item key="activePage" value="GeneralProjectConfigurationEditorPart"/>
+	</section>
+</section>

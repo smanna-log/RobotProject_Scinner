@@ -1,0 +1,13 @@
+*** Settings ***
+Library    BuiltIn
+Library    SeleniumLibrary
+
+*** Test Cases ***
+TabbedWindowsTest
+    
+    open browser  https://scinner.com    chrome 
+    Sleep    3    
+    Click Element    xpath://*[@id="accept-is-adult-modal"]/div/div/div[3]/div/h5/input    
+
+
+    

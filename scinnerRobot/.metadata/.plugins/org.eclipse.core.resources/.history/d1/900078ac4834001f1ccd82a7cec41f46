@@ -1,0 +1,17 @@
+*** Settings ***
+Library    BuiltIn
+Library    SeleniumLibrary
+
+*** Test Cases ***
+TabbedWindowsTest
+    
+    open browser  https://scinner.com    chrome
+    Maximize Browser Window 
+    Sleep    3    
+    Wait Until Element Is Visible    xpath://*[@id="accept-is-adult-modal"]/div/div/div[3]/div/h5/input    10 seconds
+    [Teardown]    Close Browser
+    
+    
+
+
+    
